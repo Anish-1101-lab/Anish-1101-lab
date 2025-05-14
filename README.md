@@ -1,4 +1,4 @@
-<h1 align="center">Anish V | LLMs × HPC × Systems</h1>
+<h1 align="center">Anish | LLMs × HPC × Systems</h1>
 
 <p align="center">
   🧠 CS Junior @ BITS Pilani Goa • Systems + AI Researcher • Infra-Aware ML Builder
