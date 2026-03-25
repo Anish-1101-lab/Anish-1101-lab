@@ -1,4 +1,4 @@
-<h1 align="center">Anish</h1>
+<h1 align="center">Anish Sathyanarayanan</h1>
 
 <p align="center">
 AI Systems • LLMs • Optimization
