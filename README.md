@@ -1,44 +1,48 @@
-<h1 align="center">Anish | LLMs × HPC × Systems</h1>
+<h1 align="center">Anish</h1>
 
 <p align="center">
-   CS Junior @ BITS Pilani Goa • Systems + AI Researcher • Infra-Aware ML Builder
+AI Systems • LLMs • Optimization
 </p>
 
 ---
 
-###  About Me
+### Work
 
-I'm exploring the intersection of **LLMs**, **HPC I/O optimization**, and **systems research**. My current focus is on building **trustworthy diagnostics** for I/O logs using **retrieval-augmented LLMs**, and applying **multimodal learning** for **intent discovery** in livestreams. I enjoy debugging hard problems, both in code and compute.
+- **Research Intern (MIT CSAIL — Algorithmic Alignment Group)**  
+  Working on alignment and reasoning in large language models
 
-- **Domain-Specialized RAG Systems**  
-  Built a pipeline to analyze Darshan logs using RAG + code generation + context retrieval (CSV+summary) → dynamic LLM diagnostics for I/O inefficiencies.
+- **Incoming Research Intern (Inria, Rennes) — Onsite**  
+  Working on interpretable ML and rule-based explanations for knowledge graphs
 
--  **Custom Architectures for CIFAR**  
-  Training DiT-style networks **without convs or transformers**, achieving >95% accuracy using **sliding window attention + class conditioning**.
+- **Second-Order Optimization (DeepMind × Apple collab)**  
+  Building SABER-KFAC — a stabilized natural-gradient optimizer for large-scale models
 
--  **Research Implementation: NAACL '22**  
-  Implementing **Multimodal Intent Discovery** using joint embeddings + clustering on livestream transcripts and visual frames.
-
--  **Blockchain-Backed Platforms**  
-  Built a crowdsourced reporting tool with **Django + React + Ethereum**, integrating smart contracts and decentralized trust.
+- **LLMs × Biology (UCL)**  
+  Building BioVibe — an LLM system for genetic circuit design (MCP + biological DBs)
 
 ---
 
-###  Interests & Focus Areas
+### Publications
 
-- LLMs for System Optimization
-- In-Context Learning + Retrieval Techniques
-- HPC Performance Tools (Darshan, Drishti)
-- Low-level I/O Pattern Analysis
-- MLOps, Infra-aware Model Design
-- RAG + Code-gen Agents for Logs & Metrics
+- *Bypassing the Rationale: Causal Auditing of Implicit Reasoning in Language Models*  
+  ICLR 2026 Workshop  
+  https://arxiv.org/abs/2602.03994
+
+- *lrnnx: A Library for Linear RNNs* *(Equal Contribution)*  
+  EACL 2026 SRW  
+  https://arxiv.org/abs/2602.08810
 
 ---
 
-###  Tooling & Stack
+  
 
-```bash
-Languages:   Python | C | Solidity | Bash
-Frameworks:  PyTorch | FastAPI | React | Django | Next.js
-Infra:       PyDarshan | Drishti | FAISS 
-Tooling:     Git | Docker | VSCode | Vite | Tailwind | Linux
+### Interests
+
+LLMs • Systems • Optimization • Alignment • Multimodal
+
+---
+
+### Links
+
+LinkedIn: https://linkedin.com/in/anish-sathyanarayanan-53b69029b  
+Email: f20240559@goa.bits-pilani.ac.in
